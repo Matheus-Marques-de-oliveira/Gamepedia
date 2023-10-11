@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color: black;
+    background-color: darkslategray;
+    font-weight: 2000px;
+    font-style:initial;
+    border-style:solid;
+    border-radius: 15px;
+    border-width: 3px;
+    border-color: black;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+body {
+    background-color: gray;
+    font-style: inherit;
+}
+
+.inicio {
+    border-bottom: 4px;
+    border-color: black;
+    border-style:none;
+    border-bottom-style: solid;
+    padding-bottom: 4px;
+    padding-top: 450px;
+}
+
+.cod.webp {
+    border-style: solid;
+    border-color: black;
+    border-width: 30px;
+}
+
+.warthunder.jpeg {
+    border-style: solid;
+    border-color: black;
+    border-width: 30px; 
+}
+
+.minecraft.jpg {
+    border-style: solid;
+    border-color: black;
+    border-width: 30px; 
+}
