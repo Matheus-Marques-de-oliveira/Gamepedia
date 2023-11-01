@@ -1,0 +1,52 @@
+h1 {
+    color: black;
+    background-color: darkred;
+    text-align: center;
+    font-size: 500px;
+    font-style:initial;
+    border-style:solid;
+    border-radius: 25px;
+    border-color: black;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+body {
+    background-image: linear-gradient(180deg,red,black);
+    font-style: inherit;
+}
+
+.inicio {
+    border-bottom: 4px;
+    border-color: black;
+    border-style:none;
+    border-bottom-style: solid;
+    padding-bottom: 4px;
+    padding-top: 450px;
+}
+
+.call {
+    height: 550px;
+    width: 457px;
+}
+
+.war {
+    height: 550px;
+    width: 457px;
+}
+
+.mine {
+    height: 550px;
+    width: 457px;
+}
+
+.enlis {
+    height: 550px;
+    width: 457px;
+}
+
+.config {
+    height: 50px;
+    width: 50px; 
+    
+}
