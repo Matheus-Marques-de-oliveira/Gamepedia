@@ -1,0 +1,74 @@
+.titulo1 {
+    color: black;
+    background-color: rgb(204, 204, 204);
+    text-align: center;
+    font-size: xx-large;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: black;
+    padding-top: 40px; 
+    padding-bottom: 40px;
+    width: 1200px;
+    margin-top: 200px;
+    margin-left: 350px;
+}
+
+.body1 {
+    background-image: linear-gradient(180deg,rgb(194, 0, 0),rgb(0, 0, 0));
+    font-style: inherit;
+    color: black;
+}
+
+.inicio {
+    border-bottom: 4px;
+    border-color: black;
+    border-style:none;
+    border-bottom-style: solid;
+    padding-bottom: 4px;
+    padding-top: 450px;
+}
+
+.call {
+    height: 325px;
+    width: 333px;
+    margin: 30px;
+}
+
+.war {
+    height: 325px;
+    width: 333px;
+    margin: 30px;
+}
+
+.mine {
+    height: 325px;
+    width: 433px;
+    margin: 30px;
+}
+
+.enlis {
+    height: 325px;
+    width: 333px;
+    margin: 30px;
+}
+
+.config {
+    height: 50px;
+    width: 80px; 
+    position: absolute;
+    top: 70px;
+    right: 0px;
+}
+
+.titulo2 {
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(204, 204, 204);
+    border-color: black;
+    padding-bottom: 30px;
+}
+
+.body2 {
+    background-color: white;
+    font-style: inherit;
+}
