@@ -6,10 +6,10 @@
     border-style: groove;
     border-radius: 20px;
     border-color: black;
-    padding-top: 40px; 
-    padding-bottom: 40px;
+    padding-top: 50px; 
+    padding-bottom: 50px;
     width: 1200px;
-    margin-top: 200px;
+    margin-top: 100px;
     margin-left: 350px;
 }
 
@@ -29,35 +29,73 @@
 }
 
 .call {
-    height: 325px;
-    width: 333px;
-    margin: 30px;
+    height: 425px;
+    width: 350px;
+    margin-left: 180px; 
 }
 
 .war {
-    height: 325px;
-    width: 333px;
-    margin: 30px;
+    height: 425px;
+    width: 350px;
+    margin-left: 40px;
 }
 
 .mine {
-    height: 325px;
-    width: 433px;
-    margin: 30px;
+    height: 425px;
+    width: 350px;
+    margin-left: 40px;
 }
 
 .enlis {
-    height: 325px;
-    width: 333px;
-    margin: 30px;
+    height: 425px;
+    width: 350px;
+    margin-left: 40px;
 }
 
 .config {
     height: 50px;
     width: 80px; 
     position: absolute;
-    top: 70px;
+    top: 10px;
     right: 0px;
+}
+
+.logo {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 140px;
+    left: 1050px;
+}
+
+.barrapesquisa {
+    position: absolute;
+    top: 450px;
+    left: 875px;
+}
+
+.CallofDuty {
+    position: absolute;
+    top: 450px;
+    left: 875px;
+}
+
+.Enlisted {
+    position: absolute;
+    top: 450px;
+    left: 875px;
+}
+
+.Warthunder {
+    position: absolute;
+    top: 450px;
+    left: 875px;
+}
+
+.minecraft {
+    position: absolute;
+    top: 450px;
+    left: 875px;
 }
 
 .titulo2 {
